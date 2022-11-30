@@ -52,7 +52,7 @@ jobs:
         run: pnpm install
 
       - name: Build the project
-        run: pnpm run build
+        run: pnpm run build --base /ts-chat-2022-23/
 
       - name: Upload artifact to Github Pages
         uses: actions/upload-pages-artifact@v1
