@@ -21,6 +21,8 @@ drawings:
   persist: false
 # use UnoCSS
 css: unocss
+# provide a PDF download
+download: true
 ---
 
 # Typescript
