@@ -25,11 +25,11 @@ css: unocss
 
 # Typescript
 
-Just JavaScript with types... or more?
+Typed JavaScript ... or something more?
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Let's see <carbon:arrow-right class="inline"/>
+    Let's see! <carbon:arrow-right class="inline"/>
   </span>
 </div>
 
