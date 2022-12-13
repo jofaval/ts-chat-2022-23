@@ -9,6 +9,6 @@
     "removeComments": false,
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true,
-    "lib": ["ES2015"]
+    "lib": ["ES2015", "DOM"]
   }
 }
